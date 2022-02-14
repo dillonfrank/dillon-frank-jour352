@@ -59,3 +59,13 @@ min-width: 300px;
 ul li { 
 font-size: 1em;
 }
+
+.menu {
+margin: 0px; 
+padding: 0px;
+text-align: center;
+}
+
+.menu li {
+display: inline;
+}
