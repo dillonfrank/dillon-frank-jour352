@@ -5,11 +5,16 @@ color: #444;
 font-weight: 400;
 }
 
-h1{
+
+#name {
 font-size: 3em;
 color: #33485e;
 text-transform: uppercase;
 text-align: center;
+Width: 60%;
+min-width: 300px;
+margin: 0 auto;
+
 }
 
 img {
