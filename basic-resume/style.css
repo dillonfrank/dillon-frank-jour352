@@ -63,20 +63,29 @@ ul li {
 font-size: 1em;
 }
 
-.menu li {
-margin: 0px; 
-padding: 0px;
+.menu {
+margin: 0; 
+padding: 0;
 text-align: center;
 }
 
 .menu li {
 display: inline;
 }
+
 #degrees {
 margin: 5px 0 0 0;
 }
+
 #do {
 margin: 5px 0 0 0;
+}
+
+#top{
+    width: 60%;
+    min- width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
 
 #container {
