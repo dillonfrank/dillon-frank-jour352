@@ -1,0 +1,62 @@
+#content {
+	margin: 0 auto ;
+	width: 900 px;
+}
+
+
+#masthead img {
+text-align: center;
+position:  relative;
+color:  white;
+}
+
+#centered {
+color: white;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size: 3em;
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+
+h1 {
+font-family: Helvectia, sans-serief;
+}
+
+p {
+font-family: Georgia, serif;
+font-size: 13px;
+line-height: 18px;
+}
+
+blockquote {
+	font-size: 2em;
+	color: white;
+	background-color: black;
+	padding: 5px;
+	width: 75%;
+	text-align: center;
+}
+
+.images figcaption { 
+font-size: 8px;
+font-style: italic;
+}
+
+.graphic {
+	width: 900px;
+	text-align: center;
+}
+
+	.graphic figcaption{
+		font-size: 12px;
+		font-style: italic;
+	} 
