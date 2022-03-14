@@ -1,0 +1,86 @@
+body {
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 2em;
+color: #444;
+font-weight: 400;
+background-color: #D4F1F4;
+}
+
+
+#headshot {
+width:400px;
+}
+
+.sectionheader{
+font-size: 4 em;
+text-transform: uppercase;
+background-color: #33485e;
+color: white;
+font-weight: 400;
+margin: 20px 0 10px 0;
+width: 70%;
+min-width: 300px;
+	}
+
+   .jobtitle {
+
+	font-weight: 400;
+ 		}
+
+ 	.organization {
+ 	font-size: 1em;
+ 	font-weight: 400;
+ }
+
+ .date {
+ font-size: 1em;
+ font-style: italic;
+ font-weight: 400;
+ margin-top: 2px;
+ }
+
+ul li { 
+font-size: 1em;
+}
+
+.menu {
+margin: 0; 
+padding: 0;
+text-align: center;
+}
+
+.menu li {
+display: inline;
+}
+
+.h2 {
+font-size:8em;
+font-weight: 800;
+}
+
+.p {
+font-size:4em;
+}
+
+#degrees {
+margin: 5px 0 0 0;
+}
+
+#do {
+margin: 5px 0 0 0;
+}
+
+#top{
+    width: 60%;
+    min- width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+#container {
+width: 100%;
+max-width: 1200px;
+margin: 0 auto;
+padding-bottom: 50px;
+
+}
