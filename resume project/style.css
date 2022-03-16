@@ -17,6 +17,7 @@ text-transform: uppercase;
 background-color: #33485e;
 color: white;
 font-weight: 400;
+font-family: georgia; 
 margin: 20px 0 10px 0;
 width: 70%;
 min-width: 300px;
@@ -53,9 +54,10 @@ text-align: center;
 display: inline;
 }
 
-.h2 {
-font-size:8em;
+h2 {
+font-size:1.25em;
 font-weight: 800;
+font-family: georgia;
 }
 
 .p {
