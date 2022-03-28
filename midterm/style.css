@@ -1,0 +1,70 @@
+#content {
+	margin: 0 auto ;
+	width: 900 px;
+}
+
+
+#masthead img {
+text-align: right ;
+position:  static;
+color:  black;
+}
+
+#centered {
+color: darkred;
+position: absolute;
+top: 12%;
+left: 20%;
+transform: translate(-50%, -50%);
+font-size: 3em;
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+
+h1 {
+font-family: Helvectia, sans-serief;
+font-size: 50px;
+}
+
+p {
+font-family: Helvetica, arial, sans-serif;
+font-size: 12px;
+line-height: 18px;
+}
+
+blockquote {
+	font-size: 2em;
+	color: black;
+	background-color: mediumpurple;
+	padding: 5px;
+	width: 75%;
+	text-align: center;
+}
+
+.images{ 
+
+width: 300px;
+height: 150 px;
+/*Make sure height is smaller than width*/
+ }
+
+.images figcaption { 
+font-size: 8px;
+font-style: italic;
+}
+
+.graphic {
+	width: 900px;
+	text-align: center;
+}
+
+	.graphic figcaption{
+		font-size: 12px;
+		font-style: italic;
+	} 
