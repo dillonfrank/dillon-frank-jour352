@@ -1,0 +1,85 @@
+#content {
+	margin: 0 auto ;
+	width: 900 px;
+}
+
+.container {
+	max-width: 900px;
+}
+
+#centered {
+text-align: left;
+color: red;
+font-size: 30px;
+font: Helvectia, sans-seirf;
+font-style: italic;
+font-weight: bolder;
+}
+
+
+#masthead img {
+text-align: center;
+position:  relative;
+color:  white;
+}
+
+#left {
+color: black;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size: 3em;
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+
+h1 {
+font-family: Helvectia, sans-serief;
+}
+
+h2{
+font- family: Helvecita, san-serief;
+font-size: 20px;
+}
+
+p {
+font-family: Georgia, serif;
+font-size: 14px;
+line-height: 14px;
+}
+
+blockquote {
+	font-size: 1em;
+	color: white;
+	background-color:#0736A4;
+	padding: 2px;
+	width: 50%;
+	text-align: center;
+}
+
+figcaption { 
+font-size: 12px;
+font-family: monospace;
+font-style: italic;
+font-weight: bold;
+}
+
+.graphic {
+	width: 900px;
+	text-align: center;
+}
+
+.center{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
